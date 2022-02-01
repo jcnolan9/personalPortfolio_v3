@@ -8,4 +8,4 @@ of the page as opposed to pure CSS. My goal was to get more practice with 3rd pa
 
 
 ## Link to GitHub Pages site 
-https://jcnolan9.github.io/personalPortfolio_v2/
+https://jcnolan9.github.io/personalPortfolio_v3/
