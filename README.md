@@ -1,4 +1,4 @@
-# personalPortfolio_v2
+# personalPortfolio_v3
 
 ## Description
 In this assignment I am updating my personal portfolio page using skills learned after the completion of the original assignment. Here I am using Bootstrap, a CSS framework, for the styling
